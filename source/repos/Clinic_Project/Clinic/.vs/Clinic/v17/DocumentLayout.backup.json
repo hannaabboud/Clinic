@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE455CF-0A7D-4642-B8E3-A550A68C1862}|..\\Clinic_Data\\Clinic_Data.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_data\\clsdataaccesssettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE455CF-0A7D-4642-B8E3-A550A68C1862}|..\\Clinic_Data\\Clinic_Data.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_data\\clscountrydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE455CF-0A7D-4642-B8E3-A550A68C1862}|..\\Clinic_Data\\Clinic_Data.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmaddupdateperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmaddupdateperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:frmmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmlistpersons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmaddupdateperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307414FD-3217-423C-B993-2DC49C11212F}|..\\Clinic_Business\\Clinic_Business.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_business\\clsperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmsearchperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmsearchperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\controls\\ctrlpersoncardwithfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmlistpersons.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmlistpersons.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmsearchperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmsearchperson.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\frmshowpersoninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{307414FD-3217-423C-B993-2DC49C11212F}|..\\Clinic_Business\\Clinic_Business.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_business\\clscountry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EE455CF-0A7D-4642-B8E3-A550A68C1862}|..\\Clinic_Data\\Clinic_Data.csproj|c:\\users\\hanna abboud\\source\\repos\\clinic_project\\clinic_data\\clspersondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:people\\controls\\ctrlpersoncard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B751448-D7AC-4A00-9987-099287AC1DF3}|Clinic.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMain.resx",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.resx",
+              "RelativeDocumentMoniker": "frmMain.resx",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.resx",
+              "RelativeToolTip": "frmMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-04T22:07:21.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddUpdatePerson.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.cs",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwIQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T13:57:30.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmAddUpdatePerson.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.Designer.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.Designer.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.Designer.cs",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:43:33.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:41:16.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmListPersons.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmListPersons.cs",
+              "RelativeDocumentMoniker": "People\\frmListPersons.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmListPersons.cs [Design]",
+              "RelativeToolTip": "People\\frmListPersons.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:50:08.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmShowPersonInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmShowPersonInfo.cs",
+              "RelativeDocumentMoniker": "People\\frmShowPersonInfo.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmShowPersonInfo.cs [Design]",
+              "RelativeToolTip": "People\\frmShowPersonInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T20:41:38.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:11:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Data\\Program.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\Program.cs",
+              "RelativeToolTip": "..\\Clinic_Data\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:08:55.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmAddUpdatePerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.cs",
+              "RelativeDocumentMoniker": "People\\frmAddUpdatePerson.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmAddUpdatePerson.cs [Design]",
+              "RelativeToolTip": "People\\frmAddUpdatePerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T18:01:01.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ctrlPersonCardWithFilter.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCardWithFilter.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCardWithFilter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T16:02:58.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCountryData.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsCountryData.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Data\\clsCountryData.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsCountryData.cs",
+              "RelativeToolTip": "..\\Clinic_Data\\clsCountryData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T23:23:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsPerson.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Business\\clsPerson.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Business\\clsPerson.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Business\\clsPerson.cs",
+              "RelativeToolTip": "..\\Clinic_Business\\clsPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:32:20.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:05:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "frmMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\frmMain.Designer.cs",
+              "RelativeToolTip": "frmMain.Designer.cs",
+              "ViewState": "AgIAADkBAAAAAAAAAAAmwEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T20:05:13.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsDataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsDataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Data\\clsDataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsDataAccessSettings.cs",
+              "RelativeToolTip": "..\\Clinic_Data\\clsDataAccessSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T15:08:00.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmSearchPerson.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmSearchPerson.cs",
+              "RelativeDocumentMoniker": "People\\frmSearchPerson.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmSearchPerson.cs [Design]",
+              "RelativeToolTip": "People\\frmSearchPerson.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:30:53.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "frmSearchPerson.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmSearchPerson.Designer.cs",
+              "RelativeDocumentMoniker": "People\\frmSearchPerson.Designer.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmSearchPerson.Designer.cs",
+              "RelativeToolTip": "People\\frmSearchPerson.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T21:57:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmListPersons.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmListPersons.Designer.cs",
+              "RelativeDocumentMoniker": "People\\frmListPersons.Designer.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\frmListPersons.Designer.cs",
+              "RelativeToolTip": "People\\frmListPersons.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-04T00:08:39.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ctrlPersonCard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCard.cs [Design]",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:35:43.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "clsCountry.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Business\\clsCountry.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Business\\clsCountry.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Business\\clsCountry.cs",
+              "RelativeToolTip": "..\\Clinic_Business\\clsCountry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T14:09:01.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "clsPersonData.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsPersonData.cs",
+              "RelativeDocumentMoniker": "..\\Clinic_Data\\clsPersonData.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic_Data\\clsPersonData.cs",
+              "RelativeToolTip": "..\\Clinic_Data\\clsPersonData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMABAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:32:57.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ctrlPersonCard.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeDocumentMoniker": "People\\Controls\\ctrlPersonCard.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\People\\Controls\\ctrlPersonCard.cs",
+              "RelativeToolTip": "People\\Controls\\ctrlPersonCard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T22:08:08.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\Hanna Abboud\\source\\repos\\Clinic_Project\\Clinic\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T21:06:03.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
