@@ -1,0 +1,10 @@
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\bin\Debug\Clinic_Data.exe.config
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\bin\Debug\Clinic_Data.exe
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\bin\Debug\Clinic_Data.pdb
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.csproj.AssemblyReference.cache
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.Properties.Resources.resources
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.csproj.GenerateResource.cache
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.csproj.CoreCompileInputs.cache
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.exe
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.pdb
+C:\Users\Hanna Abboud\source\repos\Clinic_Project\Clinic_Data\obj\Debug\Clinic_Data.exe.config
